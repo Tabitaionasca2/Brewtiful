@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brewtiful", "Brewtiful\Brewtiful.csproj", "{2CF2DF9B-5833-4B07-85F4-27754C705CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CF2DF9B-5833-4B07-85F4-27754C705CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF2DF9B-5833-4B07-85F4-27754C705CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF2DF9B-5833-4B07-85F4-27754C705CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF2DF9B-5833-4B07-85F4-27754C705CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7E26DC2-86DE-4B2D-9EC4-F4441B5316C6}
+	EndGlobalSection
+EndGlobal
